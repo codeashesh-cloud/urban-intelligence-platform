@@ -49,9 +49,9 @@ Methodology
 3. Feature Engineering
 - Lag features (lag_1, lag_2, lag_3) to capture short-term persistence
 - Rolling statistics:
-* 7-day rolling mean
-* 7-day rolling standard deviation
-* 14-day rolling mean
+a. 7-day rolling mean
+b. 7-day rolling standard deviation
+c. 14-day rolling mean
 - Removal of rows with missing values introduced by lagging and rolling windows
 
 Modeling Approach
