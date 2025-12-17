@@ -1,4 +1,4 @@
-# urban-intelligence-plaform
+# urban-intelligence-platform
 Urban Intelligence Platform
 Urban Air Quality Forecasting Using Time-Series Machine Learning
 
